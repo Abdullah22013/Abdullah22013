@@ -10,6 +10,18 @@ A passionate tech enthusiast with a keen interest in the dynamic realms of machi
 * **Programming Languages :** Python, C++, Java, JavaScript, HTML, CSS.
 * **Tools and Technologies :** Github, VScode, GIT, Google Colab, React, Vivado, Pandas, NumPy, Scikit-learn, Linux, CARLA simulator, MATLAB, LTSpice.
 
+## 🎖️ Expertise Area
+
+* Data Structures and Algorithms
+* FPGA (Field Programmable Gate Arrays)
+* Circuits
+* Machine learning
+* Computer Vison
+* Embedded Logic Design
+* Frontend development
+* Network Programming
+* TCP/IP 
+
 ## 🎯 Projects
 
 [Self Driving Car Simulation](https://github.com/Abdullah22013/Self-Driving-Car-Simulation.git) 
