@@ -8,7 +8,7 @@ A passionate tech enthusiast with a keen interest in the dynamic realms of machi
 ## 🛠️ Skills
 
 * **Programming Languages :** Python, C++, Java, JavaScript, HTML, CSS.
-* **Tools and Technologies :** Github, VScode, GIT, Google Colab, React, Vivado, Pandas, NumPy, Scikit-learn, Linux, CARLA simulator, MATLAB, LTSpice.
+* **Tools and Technologies :** Github, VScode, GIT, Google Colab,Django, React, Vivado, Pandas, NumPy, Scikit-learn, AWS, Linux, CARLA simulator, MATLAB, LTSpice.
 
 ## 🎖️ Expertise Area
 
