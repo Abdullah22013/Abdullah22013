@@ -38,7 +38,7 @@ This project developed a motion planning stack for autonomous vehicles, enabling
 The goal of this project is to predict the selling price of a car based on features such as present price, kilometers driven, ownership, fuel type, seller type, transmission type, and the year of the car model. Two regression models are used: Linear Regression and Lasso Regression.
 
 
-[Assembler and Simulator for a given ISA](https://github.com/Abdullah22013/Car-Price-Prediction-Model.git) 
+[Assembler and Simulator for a given ISA](https://github.com/Abdullah22013/Assembler-and-Simulator-for-a-given-ISA.git)
 
 **Tech Stack:** Python
 
