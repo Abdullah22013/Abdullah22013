@@ -24,6 +24,21 @@ A passionate tech enthusiast with a keen interest in the dynamic realms of machi
 
 ## 🎯 Projects
 
+[Gender and Emotion Classification using Speech/Voice using ML models](https://github.com/Abdullah22013/Gender-and-Emotion-Classification-using-Voice-.git) 
+
+**Tech Stack:**  Python, Scikit-learn, LibROSA, PCA, t-SNE, Random Forest, SVM, Matplotlib, PyTorch
+
+This project involves building a machine-learning solution to classify gender and emotions based on speech audio. The solution leverages techniques like MFCC feature extraction, dimensionality reduction, and advanced visualization.
+
+Key accomplishments:
+
+* Achieved 97% accuracy for gender recognition using SVM.
+* Designed an emotion classification model with 76% accuracy using Random Forest.
+* Addressed challenges like noise reduction and feature selection to improve model performance.
+
+Future work includes enhancing real-time emotion detection capabilities and exploring multilingual datasets for wider applicability.
+
+
 [Self Driving Car Simulation](https://github.com/Abdullah22013/Self-Driving-Car-Simulation.git) 
 
 **Tech Stack:** NumPy, Pandas, OpenCv, CARLA simulator, Image Filtering and Image Segmentation libraries.
