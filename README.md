@@ -45,6 +45,13 @@ Future work includes enhancing real-time emotion detection capabilities and expl
 
 This project developed a motion planning stack for autonomous vehicles, enabling obstacle avoidance, lane tracking, and stop sign handling. Tested in the CARLA simulator, it demonstrated robust performance in dynamic environments. Future work includes enhancing behavioral logic and integrating real-time perception.
 
+
+[Amazon Price Tracker Automation](https://github.com/Abdullah22013/Amazon-Price-Tracker-Automation)
+
+**Tech Stack:** Python, requests, BeautifulSoup, schedule, smtplib.
+
+This Amazon Price Tracker monitors multiple product prices and sends email alerts when they drop below a target value. It uses web scraping, scheduled checks (every 6 hours), and email notifications, with bot detection evasion and error handling.
+
  
 [Car Price Prediction Model](https://github.com/Abdullah22013/Car-Price-Prediction-Model.git) 
 
